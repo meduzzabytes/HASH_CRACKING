@@ -42,7 +42,7 @@ while True:
 	print("github.com/meduzzabytes | Instagram @antonio_gonzalez_cr")
 	print()
 
-	print("                                  Coded by Antonio Gonzalez\nVersion 0.3")
+	print("                                  Coded by MEDUZZA\nVersion 0.3")
 	print()
 	print(Style.RESET_ALL)
 
